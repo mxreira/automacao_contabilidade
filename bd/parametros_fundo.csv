@@ -1,0 +1,2 @@
+fundo_id,fundo_nome,taxa_adm_aa,base_dias_uteis,metodo_calculo,regra_apropriacao,regra_pagamento,dia_pagamento,arredondamento,moeda
+FIC_FIM_ALPHA,FIC FIM Alpha,0.015,252,pro_rata_dia_util,diaria,mensal,ultimo_dia_util,2,BRL

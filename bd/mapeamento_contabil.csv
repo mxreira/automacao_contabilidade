@@ -1,0 +1,3 @@
+fundo_id,tipo_lancamento,conta_debito,conta_credito,centro_custo,historico_padrao
+FIC_FIM_ALPHA,APROPRIACAO_TAXA_ADM,6.1.1.05.001,2.1.3.02.010,ADM,"Apropriacao diaria taxa de administracao"
+FIC_FIM_ALPHA,PAGAMENTO_TAXA_ADM,2.1.3.02.010,1.1.1.01.001,ADM,"Pagamento taxa de administracao"
